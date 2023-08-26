@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmritM18
-- 👀 Interested in programming languages and cool libraries. Like to know the nitty gritty (low-level). Enjoy the intersection of hardware and software (micro-controllers). 
-- 🌱 Currently @ UWaterloo for Computer Science  
+- 🌱 Recent grad @ UWaterloo Computer Science, looking for new opportunities  
 - 📫 Reach me at matharua17@gmail.com
 
 <!---
